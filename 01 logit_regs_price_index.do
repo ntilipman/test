@@ -1,4 +1,5 @@
 clear
+clear2
 cd "C:\Users\tilipman\Box Sync\Colorectal Cancer\Data and Documentation\Intermediate"
 global outpath "C:\Users\tilipman\Box Sync\Colorectal Cancer\Output"
 global matpath "C:\Users\tilipman\Box Sync\Colorectal Cancer\Code\Matlab"
